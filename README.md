@@ -16,3 +16,9 @@
 #italic and bold
 ***Aditya Engineering College***
 
+#linking
+
+[google](www.google.com)
+
+![Gojo](gojo.jpg)
+
